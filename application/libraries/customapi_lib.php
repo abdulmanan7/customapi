@@ -41,7 +41,7 @@ class Customapi_lib
     }
     public function createHmacsha($str='',$tec='SHA256')
     {
-        // echo $enc_string = hash_hmac($tec, $str, $this->bank_sec_key);
+        echo $enc_string = hash_hmac($tec, $str, $this->bank_sec_key);
         $enc_string = hash_hmac($tec, $str, $this->bank_sec_key,true);
         return base64_encode($enc_string);
     }
