@@ -1,0 +1,31 @@
+[10-Jun-2015 06:04:13 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home4/shah/public_html/customapi/application/controllers/Api.php on line 9
+[12-Jun-2015 08:42:57 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/shah/public_html/customapi/application/controllers/Api.php on line 43
+[12-Jun-2015 09:14:26 America/Chicago] PHP Fatal error:  Call to undefined method Client::_key_exists() in /home4/shah/public_html/customapi/application/controllers/Client.php on line 151
+[12-Jun-2015 09:19:55 America/Chicago] PHP Fatal error:  Call to a member function add() on a non-object in /home4/shah/public_html/customapi/application/controllers/Client.php on line 18
+[12-Jun-2015 09:25:32 America/Chicago] PHP Fatal error:  Call to a member function createHmacsha() on a non-object in /home4/shah/public_html/customapi/application/controllers/Client.php on line 16
+[13-Jun-2015 04:16:14 America/Chicago] PHP Fatal error:  Call to undefined method api::request() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 45
+[13-Jun-2015 04:22:22 America/Chicago] PHP Fatal error:  Call to a member function header() on a non-object in /home4/shah/public_html/customapi/application/controllers/Api.php on line 45
+[13-Jun-2015 07:23:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/shah/public_html/customapi/application/controllers/Client.php on line 156
+[13-Jun-2015 08:10:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'user_model' (T_STRING), expecting ')' in /home4/shah/public_html/customapi/application/controllers/Api.php on line 61
+[13-Jun-2015 08:28:47 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home4/shah/public_html/customapi/application/controllers/Api.php on line 58
+[13-Jun-2015 08:43:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home4/shah/public_html/customapi/application/controllers/Client.php on line 49
+[15-Jun-2015 07:54:06 America/Chicago] PHP Fatal error:  Call to undefined method Client::get_user_secret_key() in /home4/shah/public_html/customapi/application/controllers/Client.php on line 100
+[15-Jun-2015 07:54:50 America/Chicago] PHP Fatal error:  Call to undefined method Client::get_user_secret_key() in /home4/shah/public_html/customapi/application/controllers/Client.php on line 102
+[15-Jun-2015 07:54:55 America/Chicago] PHP Fatal error:  Call to undefined method Client::get_user_secret_key() in /home4/shah/public_html/customapi/application/controllers/Client.php on line 102
+[15-Jun-2015 07:54:58 America/Chicago] PHP Fatal error:  Call to undefined method Client::get_user_secret_key() in /home4/shah/public_html/customapi/application/controllers/Client.php on line 102
+[19-Jun-2015 06:34:55 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home4/shah/public_html/customapi/application/controllers/Api.php on line 78
+[19-Jun-2015 06:36:54 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home4/shah/public_html/customapi/application/controllers/Api.php on line 78
+[19-Jun-2015 06:37:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/shah/public_html/customapi/application/controllers/Api.php on line 98
+[22-Jun-2015 07:21:28 America/Chicago] PHP Parse error:  syntax error, unexpected ''api_key' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home4/shah/public_html/customapi/application/controllers/Api.php on line 58
+[25-Jun-2015 04:59:40 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 70
+[25-Jun-2015 04:59:48 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 70
+[25-Jun-2015 05:00:34 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 70
+[25-Jun-2015 05:00:37 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 70
+[25-Jun-2015 05:00:40 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 70
+[25-Jun-2015 05:00:47 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 70
+[25-Jun-2015 05:05:19 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 71
+[25-Jun-2015 05:05:21 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 71
+[25-Jun-2015 05:05:26 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 71
+[25-Jun-2015 05:13:51 America/Chicago] PHP Fatal error:  Call to undefined function pr() in /home4/shah/public_html/customapi/application/controllers/Api.php on line 71
+[25-Jun-2015 05:45:45 America/Chicago] PHP Fatal error:  Call to a member function insert() on a non-object in /home4/shah/public_html/customapi/application/controllers/Api.php on line 57
+[26-Jun-2015 08:04:34 America/Chicago] PHP Warning:  Unterminated comment starting line 159 in /home4/shah/public_html/customapi/application/config/rest.php on line 159
